@@ -6,4 +6,7 @@ console.log("Hello World");
     console.log("ali")
     console.log("ali")
     console.log("ali2")
+    console.log("ali2")
+    console.log("ali2")
+    console.log("ali2")
 })()
