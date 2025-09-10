@@ -5,4 +5,5 @@ console.log("Hello World");
     console.log(x);
     console.log("ali")
     console.log("ali")
+    console.log("ali2")
 })()
