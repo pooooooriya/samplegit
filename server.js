@@ -9,4 +9,5 @@ console.log("Hello World");
     console.log("ali2")
     console.log("ali2")
     console.log("ali2")
+    console.log("ali222")
 })()
